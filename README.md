@@ -6,6 +6,15 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Abhinav-alt-hub..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true">
 </p>
 
+## 💭 Developer Wisdom
+
+> “First, solve the problem. Then, write the code.”  
+> — *John Johnson*
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
+</p>
+
 ## 🚀 About Me
 
 I'm **Abhinav**, a developer who loves turning ideas into code.  
@@ -17,6 +26,7 @@ I believe in *learning in public*, building real-world projects, and helping oth
 - 🤝 Open to collaborating on open-source, web apps, and automation tools  
 - 🧠 Always curious about how things work under the hood  
 - 🎯 Goal: Become a full-stack developer & cloud-ready engineer
+
 
 
 # 🖥️ Technical Skills: 
@@ -80,3 +90,7 @@ I believe in *learning in public*, building real-world projects, and helping oth
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px">
 </p>
+
+
+
+

@@ -10,6 +10,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=B30000&center=true&vCenter=true&width=500&lines=Abhinav-alt-hub;Full+Stack+Developer;Sharp+Mind+Like+Levi;Relentless+Like+Eren" />
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=2000&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=>+INITIALIZING+PROFILE...;>+LOADING+ABHINAV-ALT-HUB...;>+BOOTING+SYSTEM...;>+WELCOME+TO+THE+GRID." />
+</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=32&duration=1500&pause=700&color=FF006E&center=true&vCenter=true&width=600&lines=ACCESSING+THE+NEURAL+NETWORK...;UPLINK+STABLE...;WELCOME+USER%3A+ABHINAV;SYSTEM+MODE:+CYBERPUNK" />
+</h1>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/26gslU06FJQ3pUQJG/giphy.webp" width="420" />
+</p>
+
 
 
 ## 💭 Developer Wisdom
@@ -115,5 +127,40 @@ I believe in *learning in public*, building real-world projects, and helping oth
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=550&lines=🔥+Thanks+For+Visiting+My+Terminal+🔥;Keep+Training,+Your+Power+Level+Is+Rising!;Your+Story+Is+Just+Getting+Started...">
 </h3>
 
+<p align="center">
+  <img src="https://i.giphy.com/media/3o85xoi6nNqJQJ95Qc/giphy.webp" width="260">
+</p>
 
+<p align="center">
 
+  <!-- GITHUB -->
+  <a href="https://github.com/Abhinav-alt-hub" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=111" />
+  </a>
+
+  <!-- LINKEDIN -->
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=111" />
+  </a>
+
+  <!-- INSTAGRAM -->
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=111" />
+  </a>
+
+  <!-- DISCORD -->
+  <a href="https://discord.com/vegeta001213" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=111" />
+  </a>
+
+  <!-- EMAIL -->
+  <a href="mailto:Abhinavdubey1302@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=111" />
+  </a>
+
+  <!-- PORTFOLIO -->
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox&logoColor=00FF41&labelColor=111" />
+  </a>
+
+</p>

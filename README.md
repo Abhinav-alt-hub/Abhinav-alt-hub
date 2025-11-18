@@ -6,23 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Abhinav-alt-hub..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=B30000&center=true&vCenter=true&width=500&lines=Abhinav-alt-hub;Full+Stack+Developer;Sharp+Mind+Like+Levi;Relentless+Like+Eren" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=2000&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=>+INITIALIZING+PROFILE...;>+LOADING+ABHINAV-ALT-HUB...;>+BOOTING+SYSTEM...;>+WELCOME+TO+THE+GRID." />
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=32&duration=1500&pause=700&color=FF006E&center=true&vCenter=true&width=600&lines=ACCESSING+THE+NEURAL+NETWORK...;UPLINK+STABLE...;WELCOME+USER%3A+ABHINAV;SYSTEM+MODE:+CYBERPUNK" />
-</h1>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/26gslU06FJQ3pUQJG/giphy.webp" width="420" />
-</p>
-
-
 
 ## 💭 Developer Wisdom
 

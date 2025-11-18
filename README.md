@@ -12,8 +12,9 @@
 > — *John Johnson*
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px">
 </p>
+
 
 ## 🚀 About Me
 
@@ -88,9 +89,6 @@ I believe in *learning in public*, building real-world projects, and helping oth
 </p>
 
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
 </p>
-
-
-
 

@@ -18,6 +18,7 @@
   <img src="https://i.giphy.com/media/26gslU06FJQ3pUQJG/giphy.webp" width="420" />
 </p>
 
+
 ## 💭 Developer Wisdom
 
 > “First, solve the problem. Then, write the code.”  

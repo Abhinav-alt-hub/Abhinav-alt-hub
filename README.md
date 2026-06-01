@@ -14,8 +14,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=32&duration=1500&pause=700&color=FF006E&center=true&vCenter=true&width=600&lines=ACCESSING+THE+NEURAL+NETWORK...;UPLINK+STABLE...;WELCOME+USER%3A+ABHINAV;SYSTEM+MODE:+CYBERPUNK" />
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.giphy.com/media/26gslU06FJQ3pUQJG/giphy.webp" width="420" />
+</p> -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26gslU06FJQ3pUQJG/giphy.gif" width="420">
 </p>
 
 

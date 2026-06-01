@@ -14,12 +14,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=32&duration=1500&pause=700&color=FF006E&center=true&vCenter=true&width=600&lines=ACCESSING+THE+NEURAL+NETWORK...;UPLINK+STABLE...;WELCOME+USER%3A+ABHINAV;SYSTEM+MODE:+CYBERPUNK" />
 </h1>
 
-<!-- <p align="center">
-  <img src="https://i.giphy.com/media/26gslU06FJQ3pUQJG/giphy.webp" width="420" />
-</p> -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26gslU06FJQ3pUQJG/giphy.gif" width="420">
-</p>
+<div align="center">
+   Full Stack Developer • AI Enthusiast • Building Things For The Web
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Applications;Exploring+AI+%26+Cloud;Always+Learning+Something+New" />
+</div>
 
 
 ## 💭 Developer Wisdom
@@ -106,15 +104,33 @@ I believe in *learning in public*, building real-world projects, and helping oth
 </div>
 </div>
 
+---
+
+## ⚡ Developer Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-alt-hub&theme=tokyonight"/>
+
+</div>
+
+---
 
 
-# 📊 GitHub Stats (All in One Place)
 
-<div align="center"> <img src="https://streak-stats.demolab.com?user=Abhinav-alt-hub&theme=tokyonight&hide_border=true" width="500"/> <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-alt-hub&show_icons=true&theme=tokyonight&hide_border=true" width="500"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-alt-hub&layout=compact&theme=tokyonight&hide_border=true" width="400"/> </div>
+# 📊 GitHub Stats 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinav-alt-hub&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Abhinav-alt-hub&theme=tokyonight&hide_border=true" width="500"/>  </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+
+</div>
+
+---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
